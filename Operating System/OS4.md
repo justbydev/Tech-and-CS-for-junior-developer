@@ -13,3 +13,6 @@
 
 ## 3) Context Switch overhead
 + 보통 Interrupt가 발생할 때 Context Switch가 발생하는데 이때 Overhead가 발생한다.
+
+<br>
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
