@@ -6,3 +6,4 @@
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
 - [OS Protection & System Call](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS2.md)
+- [Process & PCB](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS3.md)
