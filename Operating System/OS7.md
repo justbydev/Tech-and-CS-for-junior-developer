@@ -3,10 +3,10 @@
 + 기본적으로 Thread라는 것은 Process 내에서 실제로 실행되는 작업의 흐름 단위를 말한다.
 + 하나의 Process에는 많은 Thread가 존재하고 최소 1개의 Thread를 가지고 있다.
 + 각각의 Thread는 각자의 register와 stack을 가지고 있다.
-+ code, data, files 는 공유한다.
++ code, data, files, heap은 공유한다.
 + Process만으로 구성되어 있을 때는 context switch로 인하여 overhead가 발생하지만 하나의 Process가 여러 Thread로 구성되어 process의 switch가 아니라 process 내부에서 Thread간의 switch가 일어나기 때문에 overhead가 적다.
 + 각각의 Thread: register, stack
-+ 공유 메모리: code, data, files
++ 공유 메모리: code, data, files, heap
 
 ## 2) MultiThreading
 + MultiThreading이라는 것은 하나의 process가 여러 개의 thread로 구성되어 각 thread가 하나의 작업을 처리하는 것이다.
