@@ -9,3 +9,4 @@
 - [Process & PCB](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS3.md)
 - [Context Switch](https://github.com/justbydev/Tech-and-CS-for-junior-developer/tree/main/Operating%20System/OS4.md)
 - [Fork()](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS5.md)
+- [IPC](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS6.md)
