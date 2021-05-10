@@ -28,3 +28,6 @@
 7) 검증결과 정상이면 System Call table(각 System Call에 해당하는 코드들 저장)에서 해당 System Call 번호(지금은 read()에 해당하는)에 맞은 System Call Handler 호출<br>
 8) read Handler 함수 수행(Handler는 특정 이벤트를 처리해주는 함수로써 여기서는 read()에 해당하는 작업을 처리)<br>----------kernel mode 끝----------
 9) read Handler가 수행되면 다시 user mode로 전환
+
+<br>
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
