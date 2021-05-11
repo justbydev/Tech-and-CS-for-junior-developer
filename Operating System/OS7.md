@@ -24,3 +24,5 @@
 ## 5) Thread pool & Thread Local Storage
 + Thread가 필요할 때마다 create하면 overhead가 발생하니 미리 여러 개의 Thread를 만들어놓고 필요할 때 깨워서 사용하기 위해 만들어둔 것이 Thread pool
 + 공유 메모리에서 data를 공유하지만 Thread마다 각자 data를 필요로 하는 경우가 있는데 이를 위해서 TLS(Thread Local Storage)를 선언하고 공유 메모리의 data를 copy하여 각자 사용할 수 있다.
+
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
