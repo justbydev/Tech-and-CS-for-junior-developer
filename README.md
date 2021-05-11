@@ -15,3 +15,4 @@
 - [IPC](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS6.md)
 - [Thread](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS7.md)
 - [Process vs Thread](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS8.md)
+- [CPU Scheduler](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS9.md)
