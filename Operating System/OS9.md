@@ -65,3 +65,5 @@
 4. MultiLevel Feedback Queue
 + MultiLevel Queue에서는 process가 한번 ready queue에 들어가면 이동이 불가능했지만 여기서는 다른 ready queue로 이동이 가능하다.
 + 따라서 MultiLevel Queue에서 발생한 starvation 문제를 이러한 aging 기법을 통해서 해결할 수 있다.
+
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
