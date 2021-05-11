@@ -27,3 +27,5 @@
 + 자식 process는 아직 수행이 완료되지 않았는데 부모 process가 wait()를 호출하지 않고 그냥 terminated 되었을 때의 자식 process의 상태를 말한다.
 + 간단히 말해서 자식은 살아있는데 부모가 죽은 경우
 + 이 경우, init process가 주기적으로 wait를 호출하여 Orphan process 상태에 있는 자식 process들의 status를 회수하게 된다.
+
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
