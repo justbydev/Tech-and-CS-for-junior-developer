@@ -46,3 +46,5 @@
 + 또한, socket을 통해 통신하기 위해서는 각각의 process를 위한 identifier가 필요하다.
 + identifier는 IP address와 Port number로 구성
 + 네트워크에서 더 자세히 정리할 예정
+
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
