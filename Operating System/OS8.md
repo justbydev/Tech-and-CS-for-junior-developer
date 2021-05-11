@@ -18,3 +18,5 @@
 ## 4) switch
 + Process: Process의 정보는 PCB에 있으며(Thread에 대한 정보도 포함) 다른 Process를 수행하기 위해서는 PCB가 교체되는 Context Switch가 일어나야 하는데 overhead가 크다.
 + Thread: 하나의 Process 내부에서 일어나기 때문에 Context Switch가 발생하지 않으며 각각의 Thread는 stack, register만을 가지고 있기 때문에 이것만 switch가 일어나면 되어서 overhead가 작다. 
+
+[참고자료] Operating System Principles(7th Edition) by Silberschatz et al.
