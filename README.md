@@ -9,6 +9,7 @@
 **Network**
 - [Internet & Protocol](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network1.md)
 - [Network core](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network2.md)
+- [Packet delay](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network3.md)
 
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
