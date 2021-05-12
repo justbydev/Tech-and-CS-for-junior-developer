@@ -6,6 +6,9 @@
 **Algorithm**
 - [BFS&DFS](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Algorithm/Algorithm1.md)
 
+**Network**
+- [Internet & Protocol](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network1.md)
+
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
 - [OS Protection & System Call](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS2.md)
