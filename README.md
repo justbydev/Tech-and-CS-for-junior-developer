@@ -25,3 +25,4 @@
 - [Synchronization](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS10.md)
 - [Main Memory](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS11.md)
 - [Memory Contiguous Allocation](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS12.md)
+- [Paging](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS13.md)
