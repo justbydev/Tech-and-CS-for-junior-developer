@@ -12,6 +12,7 @@
 - [Packet delay](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network3.md)
 - [OSI 7 layer](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network4.md)
 - [Application layer introduction](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network5.md)
+- [Web & HTTP](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network6.md)
 
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
