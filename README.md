@@ -13,7 +13,8 @@
 - [OSI 7 layer](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network4.md)
 - [Application layer introduction](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network5.md)
 - [Web & HTTP](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network6.md)
-- [Cookies & Proxy server](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Nework7.md)
+- [Cookies & Proxy server](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network7.md)
+- [SMTP](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network8.md)
 
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
