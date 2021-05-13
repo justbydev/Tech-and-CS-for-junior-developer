@@ -23,3 +23,4 @@
 - [Process vs Thread](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS8.md)
 - [CPU Scheduler](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS9.md)
 - [Synchronization](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS10.md)
+- [Main Memory](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS11.md)
