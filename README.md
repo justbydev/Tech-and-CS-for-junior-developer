@@ -16,6 +16,13 @@
 - [Cookies & Proxy server](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network7.md)
 - [SMTP](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network8.md)
 - [DNS](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network9.md)
+- [Multiplexing](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network10.md)
+- [TCP introduction](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network11.md)
+- [TCP flow control](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network12.md)
+- [TCP error control](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network13.md)
+- [TCP Handshake](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network14.md)
+- [TCP congestion control](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network15.md)
+- [UDP](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network16.md)
 
 **Operating System**
 - [Interrupt & DMA](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS1.md)
