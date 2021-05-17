@@ -44,3 +44,4 @@
 
 **Android**
 - [Draw View](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android1.md)
+- [Activity](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android2.md)
