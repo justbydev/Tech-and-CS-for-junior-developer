@@ -56,3 +56,9 @@ onAttach()->onCreate()->onCreateView()->onActivityCreated()->onStart()->onResume
 + 완전하게 Fragment 제거
 + Activity와의 연결도 해제
 
+## 5) Fragment 연결 방법
++ Fragment를 연결할 Activity에서 FragmentManager를 통해서 Fragment가 관리
++ getSupportFragmentManager()를 통해서 FragmentManager 얻을 수 있다.
++ Fragment에 대한 add, replace, hide, show 등의 transaction을 FragmentManager.beginTransaction()을 통해서 추가할 수 있다.
++ 마지막에 transaction을 commit()함으로써 작동
++ 또는 xml 파일 상에서 <fragment>를 추가할 수도 있으며 name에 추가할 Fragment의 위치를 나타낸다
