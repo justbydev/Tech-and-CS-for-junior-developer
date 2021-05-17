@@ -13,7 +13,7 @@
 + 위의 유클리드 호제법을 사용해서 두 수의 최대공약수를 구할 수 있다.
 
 ```c
-int uclid(int a, int b){
+int Euclidean(int a, int b){
   while(b!=0){
     int r=a%b;
     a=b;
