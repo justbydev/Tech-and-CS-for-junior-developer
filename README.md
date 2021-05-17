@@ -47,3 +47,4 @@
 - [Activity](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android2.md)
 - [Fragment](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android3.md)
 - [Main Thread vs Worker Thread](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android4.md)
+- [Intent & Bundle](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android5.md)
