@@ -5,6 +5,7 @@
 
 **Algorithm**
 - [BFS&DFS](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Algorithm/Algorithm1.md)
+- [Euclidean algorithm](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Algorithm/Algorithm2.md)
 
 **Network**
 - [Internet & Protocol](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Network/Network1.md)
