@@ -41,3 +41,6 @@
 - [Paging](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS13.md)
 - [Paging structure](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS14.md)
 - [Segmentation](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Operating%20System/OS15.md)
+
+**Android**
+- [Draw View](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android1.md)
