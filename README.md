@@ -49,3 +49,8 @@
 - [Main Thread vs Worker Thread](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android4.md)
 - [Intent & Bundle](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android5.md)
 - [PendingIntent](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android6.md)
+- [Inflate](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android7.md)
+- [ContentProvider](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android8.md)
+- [Adapter](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android9.md)
+- [ListView & RecyclerView](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android10.md)
+- [Context](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android11.md)
