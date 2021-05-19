@@ -7,7 +7,7 @@
 + HTTP는 server-client 구조를 가지고 있다.
 + HTTP 통신은 client의 요청이 있을 때 connection이 형성되면서 server가 응답하여 요청한 정보를 전송하고 연결을 바로 끊는 방식
 + server는 client에게 요청을 할 수 없는 단방향적 통신
-+ 안드로이드에서는 HTTPURLConnection과 더불어 AsyncTask, Volley, Retrofit 등을 통해 가능하다.
++ 안드로이드에서는 HTTPURLConnection과 더불어 AsyncTask, OKhttp3, Volley, Retrofit2 등을 통해 가능하다.
 
 ## 3) Socket 통신
 + server와 client가 socket을 열고 특정 포트를 통해서 연결하여 실시간으로 통신
