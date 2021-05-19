@@ -28,3 +28,8 @@ FirebaseInstanceId().getInstnace().getToken()
 + 내가 보내고자 하는 대상의 device token을 알아야 한다.
 + FCM도 결국 구글 클라우드 서버, 즉, 서버와의 통신이기에 HTTP 통신을 진행한다.
 + 따라서 본인은 Retrofit2을 사용했으며 FCM에 해당 어플리케이션 등록 시 받은 Authorization key, content-type을 Headers에 포함시켜 진행한다.
+```
+@Headers({"Authorization: key=" + "AAAAz....Sh_1U", "Content-Type:application/json"})
+@POST()
+CALL<>()
+```
