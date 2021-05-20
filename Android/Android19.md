@@ -50,10 +50,20 @@ sendBroadcast(intent);
 protected void onResume() {
     super.onResume();
     //BroadCastReceiver 에 Action 등록
-    testReceiver = new BatteryReceiver();
+    testReceiver = new TestReceiver();
     IntentFilter intentFilter = new IntentFilter();
     intentFilter.addAction(Intent.ACTION_POWER_CONNECTED);
     intentFilter.addAction(Intent.ACTION_POWER_DISCONNECTED);
-    this.registerReceiver(batteryReceiver,intentFilter);
+    Context.registerReceiver(intentReceiver,intentFilter);
+}
+```
++ 위와 같이 register하면 TestReceiver의 onReceive에서 수신받습니다.
+
+2. 동적 Receiver 해제
+```
+@Override
+protected void onPause() {
+    super.onPause();
+    unregisterReceiver(testReceiver);
 }
 ```
