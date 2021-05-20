@@ -61,3 +61,4 @@
 - [FCM](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android16.md)
 - [Manifest file](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android17.md)
 - [Thread/Handler/Looper](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android18.md)
+- [BroadcastReceiver](https://github.com/justbydev/Tech-and-CS-for-junior-developer/blob/main/Android/Android19.md)
