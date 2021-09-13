@@ -48,6 +48,8 @@ onAttach()->onCreate()->onCreateView()->onActivityCreated()->onStart()->onResume
 9. onDestroyView()
 + Fragment의 view들을 제거하는 시점
 + 만약 back-stack을 사용했다면 해당 Fragment로 돌아올때 onCreateView()가 호출
++ 2개 이상의 fragment를 add한 후 replace되면 기존 fragment를 onDetach()까지 끝낸 다음 새로운 Fragment를 올린다
++ 하지만 add할 때 backstack에 넣는다면 onDetach()까지 가지 않고 onDestroyView()까지만 처리된다
 
 10. onDestroy()
 + 완전하게 Fragment가 제거하기 직전
