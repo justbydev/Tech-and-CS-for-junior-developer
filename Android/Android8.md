@@ -6,7 +6,8 @@
 + 여기서 다른 앱이란 연락처, 갤러리, 음악 등 안드로이드가 가지고 있는 기본 앱도 포함된다.
 
 ## 2) ContentResolver
-+ ContentProvider가 Provider를 제공하는 다른 앱의 DB에 접근하려 한다면 접근하여 그 결과를 받아 반환해주는 역할을 하는 것이 ContentResolver
++ ContentProvider를 제공하는 다른 앱의 DB에 접근하려 한다면 ContentResolver 사용
++ DB에 접근하여 그 결과를 받아 반환해주는 역할을 하는 것이 ContentResolver
 + ContentProvider가 접근하기 위해서는 ContentResolver를 사용해야 한다.
 + ContentResolver는 geContentResolver() 를 통해서 얻을 수 있다. 
 + ContentResolver는 SQL 기반으로 CRUD query를 제공한다.
