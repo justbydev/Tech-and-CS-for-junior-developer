@@ -15,6 +15,17 @@
 + Uniform Resource Indicator로써 정형화된 여러 파일들의 식별자를 의미
 + ContntProvider가 DB에 접근하여 ContentResolver를 통해 받아올 때는 그 DB(여러 파일들)의 URI를 받아오게 된다.
 + 이 URI를 통해서 DB에 접근하는데 외부 앱 역시 이 URI를 해석하여 필요한 DB query 작업을 하고 return값을 돌려준다.
+```
+<provider android:name=".TestProvider"
+          android:authorities="com.test.contentprovidertest.TestProvider"
+          android:exported="true">
+```
+위의 코드는 데이터를 제공할 곳의 AndroidManifest.xml에 provider를 추가한 코드입니다.
+```
+  Cursor cursor=getContentResolver().query(
+    Uri.parse("content://com.test.contentprovidertest.TestProvider"),null,null,null,null);
+```
+위의 코드는 provider를 선언한 앱에서 authorities로 지정한 것을 Uri를 통해서 접근하도록 contentresolver를 사용하는 코드입니다.
 
 ## 4) Cursor
 + Cursor는 DB에서 각 행을 참조하는 역할을 한다.
