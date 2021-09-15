@@ -62,8 +62,8 @@ protected void onResume() {
 2. 동적 Receiver 해제
 ```
 @Override
-protected void onPause() {
-    super.onPause();
+protected void onStop() {
+    super.onStop();
     unregisterReceiver(testReceiver);
 }
 ```
