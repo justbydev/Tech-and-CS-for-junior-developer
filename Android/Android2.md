@@ -28,10 +28,12 @@ onCreate()->onStart()->onResume()->onPause()->onStop()->onDestroy()
 4. onPause()
 + Activity가 사용자로부터 부분적으로 가려지기 시작할 때 호출
 + Activity가 foreground에 있지 않게 된다는 것을 처음 알리기 위한 역할
++ 아주 잠깐동안 머무는 것이기 때문에 데이터 저장, 통신 등 무거운 작업을 하기에 적합하지 않음
 + 아직 소멸되지 않은 상태
 
 5. onStop()
 + Activity가 완전히 가려져 사용자에게 보여지지 않았을 때 호출
++ onPause()에서 하지 못한 무거운 작업은 onStop()에서 실행
 + 아직 소멸되지 않은 상태
 
 6. onRestart()
