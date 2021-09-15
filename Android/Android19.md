@@ -67,3 +67,6 @@ protected void onPause() {
     unregisterReceiver(testReceiver);
 }
 ```
+
+참고자료<br>
+https://limkydev.tistory.com/49
