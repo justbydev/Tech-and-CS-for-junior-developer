@@ -44,6 +44,8 @@ sendBroadcast(intent);
 + Activity가 create되어서 등록될 때만 가능하다
 + 즉, Activity의 context가 유효할 때만 가능하며 Destroy되면 Receiver도 같이 소멸된다.
 + Manifest에 등록할 때 intent filter를 사용한 것처럼 Receiver를 등록하기 위해서는 IntentFilter를 사용한다.
++ 동적 Receiver의 경우 우선 registerReceiver()를 통하여 등록한 후, 필요할 때 sendBroadcast(intent)를 통하여 전송해서 실행한다.(정적 Receiver 2,3번과 동일)
++ 정적 Receiver와의 차이점은 Receiver 등록 시점 및 등록 방법이다
 1. 동적 Receiver 등록
 ```
 @Override
