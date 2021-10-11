@@ -56,7 +56,7 @@ protected void onResume() {
     IntentFilter intentFilter = new IntentFilter();
     intentFilter.addAction(Intent.ACTION_POWER_CONNECTED);
     intentFilter.addAction(Intent.ACTION_POWER_DISCONNECTED);
-    Context.registerReceiver(intentReceiver,intentFilter);
+    Context.registerReceiver(testReceiver,intentFilter);
 }
 ```
 + 위와 같이 register하면 TestReceiver의 onReceive에서 수신받습니다.
