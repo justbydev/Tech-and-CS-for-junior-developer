@@ -37,7 +37,7 @@
 + startService(Intent)를 통해서 실행
 + Intent를 통해서 Activity에게 데이터를 전달할 수도 있다.
 
-3. BindService
+3. BoundService
 + server-client 구조를 가져서 Activity와 통신을 주고 받는 service
 + service를 호출한 대상이 client가 되며 service가 서버가 되는 형태
 + service에게 어떤 작업을 요청하고 요청 처리 후 결과값을 반환하는 구조
