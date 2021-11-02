@@ -9,6 +9,9 @@
 + 이런 4가지 component를 이용해서 cookie가 setting되어서 사용된다.
 + 요즘은 보안 문제로 인하여 사용자에게 직접 이메일과 이름을 입력받아 쿠키 허용 요청을 하여 쿠키를 저장하는 경우가 많다.
 
+※ 쿠키 사용 이유 및 쿠키, 세션 참고자료<br>
+https://hahahoho5915.tistory.com/32
+
 # 2) Proxy server(Web cache)
 + 웹페이지에 들어간다는 것은 웹브라우저가 웹서버로부터 여러가지 object들을 받아온다는 것을 뜻한다.
 + 또한, 여러 object들을 받아오기 위해서는 TCP connection이 이루어지고 HTTP 통신이 이루어져야 한다.
